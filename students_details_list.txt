@@ -1,0 +1,11 @@
+ram,12
+sam,1
+raju,2
+Malika,11
+saran,14
+samyukta,45
+Raji,80
+Rana,65
+sara,50
+mara,60
+madhi,25
